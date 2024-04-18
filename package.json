@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@kollusietea/vero-fugit-voluptatem-accusamus",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,28 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/kollusietea/vero-fugit-voluptatem-accusamus.git"
   },
   "dependencies": {
+    "@firantea/et-officiis-eligendi-laboriosam": "^1.0.0",
+    "@firantea/fuga-reprehenderit-laudantium-officiis": "^1.0.0",
+    "@firantea/iste-quisquam-laboriosam-magni": "^1.0.0",
+    "@firantea/libero-autem-nam-possimus": "^1.0.0",
+    "@firantea/perspiciatis-ut-sint-ipsum": "^1.0.0",
+    "@npmteasources/quo-id-ut-accusantium": "^1.0.0",
+    "@npmteasources/ratione-accusantium-laboriosam-at": "^1.0.0",
+    "@npmteasources/reiciendis-consectetur-explicabo-aperiam": "^1.0.0",
+    "@npmteasources/sapiente-natus-consequatur-odio": "^1.0.0",
+    "@npmteasources/similique-totam-aliquam-pariatur": "^1.0.0",
+    "@npmteasources/tempora-ea-nihil-soluta": "^1.0.0",
+    "@npmteasources/voluptates-non-non-assumenda": "^1.0.0",
+    "@womhla6stea/ad-dicta-omnis-velit": "^1.0.0",
+    "@womhla6stea/dolore-aliquam-ratione-nemo": "^1.0.0",
+    "@womhla6stea/eaque-odio-deserunt-ipsum": "^1.0.0",
+    "@womhla6stea/eius-non-ea-illo": "^1.0.0",
+    "@womhla6stea/laborum-assumenda-magni-quo": "^1.0.0",
+    "@womhla6stea/modi-illum-cupiditate-quasi": "^1.0.0",
+    "@womhla6stea/quia-eius-unde-cum": "^1.0.0",
+    "@womhla6stea/soluta-excepturi-deleniti-repellendus": "^1.0.0"
   }
 }
